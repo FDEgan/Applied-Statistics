@@ -2,11 +2,11 @@
 
 A collection of Jupyter notebooks demonstrating fundamental statistical concepts through practical simulation and analysis using Python.
 
-## 📋 Overview
+## Overview
 
 This repository contains four comprehensive statistical analysis problems implemented in Python, covering topics from probability theory to hypothesis testing and ANOVA. Each notebook demonstrates both theoretical understanding and practical implementation of statistical methods.
 
-## 📁 Repository Contents
+## Repository Contents
 
 ### Problem 1: Extending the Lady Tasting Tea Experiment
 **File:** `Problem_1_Lady_Tasting_Tea.ipynb`
@@ -113,7 +113,7 @@ Comparison of one-way ANOVA with multiple pairwise t-tests, demonstrating the mu
 
 ---
 
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 
 ### Core Libraries
 - **NumPy** (`numpy`): Numerical computing, array operations, random number generation
@@ -127,7 +127,7 @@ Comparison of one-way ANOVA with multiple pairwise t-tests, demonstrating the mu
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -162,7 +162,7 @@ jupyter notebook
 
 ---
 
-## 📊 Key Statistical Methods Demonstrated
+## Key Statistical Methods Demonstrated
 
 ### Probability & Simulation
 - ✓ Combinatorial calculations (binomial coefficients)
@@ -195,7 +195,7 @@ jupyter notebook
 
 ---
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 After working through these notebooks, you will be able to:
 
@@ -211,7 +211,7 @@ After working through these notebooks, you will be able to:
 
 ---
 
-## 📚 Key Takeaways by Problem
+## Key Takeaways by Problem
 
 ### Problem 1: Experimental Design
 > Increasing the number of observations while keeping the target constant makes random success exponentially less likely, strengthening the evidence needed to reject the null hypothesis.
@@ -226,7 +226,7 @@ After working through these notebooks, you will be able to:
 > When comparing multiple groups, ANOVA controls the overall Type I error rate better than multiple t-tests. The family-wise error rate inflates rapidly with the number of comparisons.
 
 ---
-## 🔍 Code Examples
+## Code Examples
 
 ### Example: Monte Carlo Simulation (Problem 1)
 
